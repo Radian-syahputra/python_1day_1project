@@ -29,6 +29,11 @@ Python Bisa Dipakai Untuk
 -- bool | bool adalah tipe data yang digunakan untuk merepresentasikan nilai boolean, seperti True, False
 
 
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+-- Notasi Ilmiah | Notasi ilmiah adalah notasi yang digunakan untuk merepresentasikan bilangan yang sangat besar atau sangat kecil, seperti 1e3, 1e-3
+--- Notasi Ilmiah | Contoh: 1e3 = 1000, 1e-3 = 0.001
+
 
 
 
