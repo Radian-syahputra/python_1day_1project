@@ -37,3 +37,14 @@ Python Bisa Dipakai Untuk
 
 
 
+
+
+MULAI
+  INPUT angkaPertama
+  INPUT angkaKedua
+  IF angkaPertama > angkaKedua THEN
+    TAMPILKAN angkaPertama
+  ELSE
+    TAMPILKAN angkaKedua
+  END IF
+SELESAI
